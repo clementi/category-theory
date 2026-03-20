@@ -1,6 +1,6 @@
 # Category Theory Resources
 
-This is a curated list of resources related to [category theory](https://en.wikipedia.org/wiki/Category_theory), especially with reference to programming.
+This is a curated list of resources related to category theory, especially with reference to programming.
 
 * ["Category Theory"](https://en.wikipedia.org/wiki/Category_theory) at Wikipedia
 * ["Category Theory"](https://plato.stanford.edu/entries/category-theory/) at the Stanford Encyclopedia of Philosophy
