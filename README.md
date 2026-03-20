@@ -16,4 +16,4 @@ This is a curated list of resources related to category theory, especially with 
 * _[Category Theory for Computing Science](https://www.math.mcgill.ca/barr/papers/ctcs.pdf)_, by Michael Barr & Charles Wells
 * _[Computational Category Theory](https://www.cs.man.ac.uk/~david/categories/book/book.pdf)_, by D. E. Rydeheard & R. M. Burstall
 * _[Category Theory](http://files.farka.eu/pub/Awodey_S._Category_Theory(en)(305s).pdf)_, by Steve Awodey
-* [The Catsters](https://www.youtube.com/@TheCatsters) on YouTube.
+* [The Catsters](https://www.youtube.com/@TheCatsters) on YouTube
