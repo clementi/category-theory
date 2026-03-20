@@ -12,4 +12,4 @@ This is a curated list of resources related to [category theory](https://en.wiki
 * _[Category Theory for Programming](https://arxiv.org/pdf/2209.01259)_, by Benedikt Ahrens and Kobe Wullaert
 * _[Category Theory for Programmers](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)_, by Bartosz Milewski
   * [PDF book](https://github.com/hmemcpy/milewski-ctfp-pdf)
-  * [Video lectures](https://www.youtube.com/watch?v=I8LbkfSSR58&list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_)
+  * [Video lectures](https://www.youtube.com/playlist?list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_)
