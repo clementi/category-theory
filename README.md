@@ -17,6 +17,6 @@ This is a curated list of resources related to category theory, especially with 
 * _[Computational Category Theory](https://www.cs.man.ac.uk/~david/categories/book/book.pdf)_, by D. E. Rydeheard & R. M. Burstall
 * _[Category Theory](http://files.farka.eu/pub/Awodey_S._Category_Theory(en)(305s).pdf)_, by Steve Awodey
 * [The Catsters](https://www.youtube.com/@TheCatsters) on YouTube
-* _[An Infinitely Large Napkin](https://web.evanchen.cc/napkin.html)_, by Evan Chen.
+* _[An Infinitely Large Napkin](https://web.evanchen.cc/napkin.html)_, by Evan Chen
   * [PDF book](https://venhance.github.io/napkin/Napkin.pdf)
   * [Part 17: Category Theory](https://venhance.github.io/napkin/Parts/part-17-napkin-category-theory.pdf)
