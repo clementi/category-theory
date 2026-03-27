@@ -27,3 +27,5 @@ This is a curated list of resources related to category theory, especially with 
 * [The Unison Programming Language](https://www.unison-lang.org)
 * [The F* Programming Language](https://fstar-lang.org)
 * [The Я (Ya) Programming Language](https://muratkasimov.art/Ya/)
+* _[Homotopy Type Theory: Univalent Foundations of Mathematics](https://homotopytypetheory.org/book/)_, by The Univalent Foundations Program, Institute for Advanced Study. See especially Chapter 9, "Category Theory"
+  * [PDF book](https://hott.github.io/book/hott-online.pdf.html)
