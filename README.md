@@ -22,5 +22,7 @@ This is a curated list of resources related to category theory, especially with 
   * [PDF book](https://venhance.github.io/napkin/Napkin.pdf)
   * [Part 17: Category Theory](https://venhance.github.io/napkin/Parts/part-17-napkin-category-theory.pdf)
 * [The Haskell Programming Language](https://www.haskell.org)
+* [The Agda Programming Language](https://wiki.portal.chalmers.se/agda)
+* [The Idris Programming Language](https://www.idris-lang.org)
 * [The Unison Programming Language](https://www.unison-lang.org)
 * [The Я (Ya) Programming Language](https://muratkasimov.art/Ya/)
