@@ -10,7 +10,7 @@ This is a curated list of resources related to category theory, especially with 
 * [CatDat](https://catdat.app/), a comprehensive database of categories and their properties
 * [Category Theory](https://www.reddit.com/r/CategoryTheory/) on Reddit
 * _[Category Theory in Programming](https://docs.racket-lang.org/ctp/index.html)_, by Noah Ma
-* _[Category Theory for Programming](https://arxiv.org/pdf/2209.01259)_, by Benedikt Ahrens and Kobe Wullaert
+* _[Category Theory for Programming](https://arxiv.org/abs/2209.01259)_, by Benedikt Ahrens and Kobe Wullaert
 * _[Category Theory for Programmers](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)_, by Bartosz Milewski
   * [PDF book](https://github.com/hmemcpy/milewski-ctfp-pdf)
   * [Video lectures](https://www.youtube.com/playlist?list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_)
