@@ -21,11 +21,11 @@ This is a curated list of resources related to category theory, especially with 
 * _[An Infinitely Large Napkin](https://web.evanchen.cc/napkin.html)_, by Evan Chen
   * [PDF book](https://venhance.github.io/napkin/Napkin.pdf)
   * [Part 17: Category Theory](https://venhance.github.io/napkin/Parts/part-17-napkin-category-theory.pdf)
+* _[Homotopy Type Theory: Univalent Foundations of Mathematics](https://homotopytypetheory.org/book/)_, by The Univalent Foundations Program, Institute for Advanced Study. See especially Chapter 9, "Category Theory"
+  * [PDF book](https://hott.github.io/book/hott-online.pdf.html)
 * [The Haskell Programming Language](https://www.haskell.org)
 * [The Agda Programming Language](https://wiki.portal.chalmers.se/agda)
 * [The Idris Programming Language](https://www.idris-lang.org)
 * [The Unison Programming Language](https://www.unison-lang.org)
 * [The F* Programming Language](https://fstar-lang.org)
 * [The Я (Ya) Programming Language](https://muratkasimov.art/Ya/)
-* _[Homotopy Type Theory: Univalent Foundations of Mathematics](https://homotopytypetheory.org/book/)_, by The Univalent Foundations Program, Institute for Advanced Study. See especially Chapter 9, "Category Theory"
-  * [PDF book](https://hott.github.io/book/hott-online.pdf.html)
