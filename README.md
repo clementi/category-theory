@@ -21,3 +21,6 @@ This is a curated list of resources related to category theory, especially with 
 * _[An Infinitely Large Napkin](https://web.evanchen.cc/napkin.html)_, by Evan Chen
   * [PDF book](https://venhance.github.io/napkin/Napkin.pdf)
   * [Part 17: Category Theory](https://venhance.github.io/napkin/Parts/part-17-napkin-category-theory.pdf)
+* [The Haskell Programming Language](https://www.haskell.org)
+* [The Unison Programming Language](https://www.unison-lang.org)
+* [The Я (Ya) Programming Language](https://muratkasimov.art/Ya/)
