@@ -5,6 +5,7 @@ This is a curated list of resources related to category theory, especially with 
 * ["Category Theory"](https://en.wikipedia.org/wiki/Category_theory) at Wikipedia
 * ["Category Theory"](https://plato.stanford.edu/entries/category-theory/) at the Stanford Encyclopedia of Philosophy
 * ["Category Theory"](https://ncatlab.org/nlab/show/category+theory) at [nLab](https://ncatlab.org)
+* _[Category Theory Illustrated](https://abuseofnotation.github.io/category-theory-illustrated/)_, by Jencel P.
 * _[Basic Category Theory](https://arxiv.org/abs/1612.09375)_, by Tom Leinster
 * [Category-Theory.org](https://category-theory.org/)
 * [CatDat](https://catdat.app/), a comprehensive database of categories and their properties
